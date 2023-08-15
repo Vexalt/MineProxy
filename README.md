@@ -1,2 +1,2 @@
 # MineProxy
-A simple minecraft proxy for development purpose
+A simple minecraft proxy for learning only purpose
