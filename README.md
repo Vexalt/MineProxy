@@ -1,2 +1,2 @@
 # MineProxy
-A simple minecraft proxy for learning only purpose
+MineAuth: Seamlessly authenticate with Mojang servers using Python! Dive into the world of Minecraft with enhanced security and ease.
